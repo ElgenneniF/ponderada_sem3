@@ -13,7 +13,7 @@ A protoboard é alimentada por um Arduino UNO conectado à porta do computador. 
 |-|-|-|
 |Jumper macho-macho | 7 | -|
 |Arduino | 1 | Arduino UNO|
-|Resistor | 3 | 33Ω  5% (1/4W) |
+|Resistor | 3 | 330Ω  5% (1/4W) |
 |LED | 3 | - |
 |Suporte de MDF | 1 |- |
 |potenciômetro| 1 | - |
